@@ -1,2 +1,11 @@
-# my-first-homepage
-this is my first project uploaded on github
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Priyanshi's First Website</title>
+</head>
+<body>
+    <h1>Hello, I am Priyanshi 👩‍💻</h1>
+    <p>This is my first project uploaded on GitHub!</p>
+</body>
+</html>
+v
